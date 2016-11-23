@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Asteroids</string>
+    <string name="api_key">9xpAVBQx5dGlwjO4Sv4JfD2hZANs1K9ikwjIAA6O</string>
+
+    <!-- texts row_asteroid.xml -->
+    <string name="id">ID</string>
+    <string name="name">Nombre</string>
+    <string name="general">General</string>
+    <string name="absolute_magnitude_h">Magnitud abs</string>
+    <string name="kilometers">Kilometros</string>
+    <string name="meters">Meters</string>
+    <string name="miles">Millas</string>
+    <string name="feet">Pies</string>
+    <string name="estimated_diameter_min">Diametro Min</string>
+    <string name="estimated_diameter_max">Diametro Max</string>
+
+    <string name="close_approach_data">Aproximacion</string>
+    <string name="close_approach_date">Fecha</string>
+    <string name="relative_velocity">Velocidad Relativa</string>
+    <string name="kilometers_per_hour">Km/h</string>
+
+    <string name="miss_distance">Distancia</string>
+
+    <string name="orbiting_body">Cuerpo Orbitando</string>
+
+</resources>
